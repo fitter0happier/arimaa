@@ -1,0 +1,17 @@
+1g Ra1 Rb1 Rc1 Rd1 Re1 Rf1 Rg1 Rh1 Da2 Hb2 Cc2 Ed2 Me2 Cf2 Hg2 Dh2 
+1s da7 hb7 cc7 md7 ee7 cf7 hg7 dh7 ra8 rb8 rc8 rd8 re8 rf8 rg8 rh8 
+8g Rc1n Rc2n Rc3x 2g 2g Hg2n Dh2n 
+2s da7s hb7w 
+3g Ed2n Ed3n 
+3s md7s 
+4g Me2n 
+4s md6s 
+5g Ed4w 
+5s md5w 
+6g Ec4e 
+6s mc5e cc7w rc8s cf7s cf6x 
+7g Ed4e 
+7s rd8w dh7s rh8s 
+CURRENT 9000
+GOLD 96000
+AI

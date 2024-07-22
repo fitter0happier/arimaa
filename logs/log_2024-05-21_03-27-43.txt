@@ -1,0 +1,8 @@
+2024-05-21 03:27:43 [main] INFO  com.cvut.fel.pjv.Main - Game started with logging {} enabled
+2024-05-21 03:27:43 [main] INFO  c.c.f.pjv.Controllers.GameController - GameController initialized with logging enabled.
+2024-05-21 03:27:43 [main] INFO  c.c.f.pjv.Controllers.GameController - Starting the game...
+2024-05-21 03:27:45 [AWT-EventQueue-0] INFO  c.c.f.pjv.Controllers.GameController - Board created and displayed.
+2024-05-21 03:27:46 [AWT-EventQueue-0] INFO  c.c.f.pjv.Controllers.GameController - Beginning new game...
+2024-05-21 03:27:46 [AWT-EventQueue-0] INFO  c.c.f.pjv.Controllers.GameController - New game setup completed.
+2024-05-21 03:27:55 [AWT-EventQueue-0] INFO  c.c.f.pjv.Controllers.GameController - Finishing player turn for GOLD
+2024-05-21 03:27:55 [AWT-EventQueue-0] INFO  c.c.f.pjv.Controllers.GameController - Turn finished. Next turn for SILVER

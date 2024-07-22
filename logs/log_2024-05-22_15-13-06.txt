@@ -1,0 +1,75 @@
+2024-05-22 15:13:06 [main] INFO  com.cvut.fel.pjv.Main - Game started with logging {} enabled
+2024-05-22 15:13:06 [main] INFO  c.c.f.pjv.Controllers.GameController - GameController initialized with logging enabled.
+2024-05-22 15:13:06 [main] INFO  c.c.f.pjv.Controllers.GameController - Starting the game...
+2024-05-22 15:13:10 [AWT-EventQueue-0] INFO  c.c.f.pjv.Controllers.GameController - Board created and displayed.
+2024-05-22 15:13:11 [AWT-EventQueue-0] INFO  c.c.f.pjv.Controllers.GameController - Beginning new game...
+2024-05-22 15:13:11 [AWT-EventQueue-0] DEBUG c.c.f.pjv.Controllers.GameController - Updated time: 10 seconds left for GOLD
+2024-05-22 15:13:11 [AWT-EventQueue-0] INFO  c.c.f.pjv.Controllers.GameController - New game setup completed.
+2024-05-22 15:13:12 [AWT-EventQueue-0] DEBUG c.c.f.pjv.Utilities.ValidationHelper - Checking if move is valid...
+2024-05-22 15:13:12 [AWT-EventQueue-0] DEBUG c.c.f.pjv.Controllers.GameController - Turn validation for move from [6, 3] to [5, 3]: true
+2024-05-22 15:13:12 [AWT-EventQueue-0] DEBUG c.c.f.pjv.Utilities.ValidationHelper - Checking for trap...
+2024-05-22 15:13:12 [AWT-EventQueue-0] DEBUG c.c.f.pjv.Controllers.GameController - Piece moved from (6, 3) to (5, 3). Current turn count: 1
+2024-05-22 15:13:12 [AWT-EventQueue-0] DEBUG c.c.f.pjv.Controllers.GameController - Board state after move:
+2024-05-22 15:13:12 [AWT-EventQueue-0] DEBUG c.c.f.pjv.Controllers.GameController - 
+00 00 00 00 00 00 00 00 
+02 03 01 04 05 01 03 02 
+xx xx xx xx xx xx xx xx 
+xx xx xx xx xx xx xx xx 
+xx xx xx xx xx xx xx xx 
+xx xx xx 15 xx xx xx xx 
+12 13 11 xx 14 11 13 12 
+10 10 10 10 10 10 10 10 
+
+2024-05-22 15:13:12 [Thread-0] DEBUG c.c.f.pjv.Controllers.GameController - Updated time: 9 seconds left for GOLD
+2024-05-22 15:13:13 [AWT-EventQueue-0] DEBUG c.c.f.pjv.Utilities.ValidationHelper - Checking if move is valid...
+2024-05-22 15:13:13 [AWT-EventQueue-0] DEBUG c.c.f.pjv.Controllers.GameController - Turn validation for move from [6, 4] to [5, 4]: true
+2024-05-22 15:13:13 [AWT-EventQueue-0] DEBUG c.c.f.pjv.Utilities.ValidationHelper - Checking for trap...
+2024-05-22 15:13:13 [AWT-EventQueue-0] DEBUG c.c.f.pjv.Controllers.GameController - Piece moved from (6, 4) to (5, 4). Current turn count: 2
+2024-05-22 15:13:13 [AWT-EventQueue-0] DEBUG c.c.f.pjv.Controllers.GameController - Board state after move:
+2024-05-22 15:13:13 [AWT-EventQueue-0] DEBUG c.c.f.pjv.Controllers.GameController - 
+00 00 00 00 00 00 00 00 
+02 03 01 04 05 01 03 02 
+xx xx xx xx xx xx xx xx 
+xx xx xx xx xx xx xx xx 
+xx xx xx xx xx xx xx xx 
+xx xx xx 15 14 xx xx xx 
+12 13 11 xx xx 11 13 12 
+10 10 10 10 10 10 10 10 
+
+2024-05-22 15:13:13 [Thread-0] DEBUG c.c.f.pjv.Controllers.GameController - Updated time: 8 seconds left for GOLD
+2024-05-22 15:13:14 [AWT-EventQueue-0] DEBUG c.c.f.pjv.Utilities.ValidationHelper - Checking if move is valid...
+2024-05-22 15:13:14 [AWT-EventQueue-0] DEBUG c.c.f.pjv.Controllers.GameController - Turn validation for move from [6, 6] to [5, 6]: true
+2024-05-22 15:13:14 [AWT-EventQueue-0] DEBUG c.c.f.pjv.Utilities.ValidationHelper - Checking for trap...
+2024-05-22 15:13:14 [AWT-EventQueue-0] DEBUG c.c.f.pjv.Controllers.GameController - Piece moved from (6, 6) to (5, 6). Current turn count: 3
+2024-05-22 15:13:14 [AWT-EventQueue-0] DEBUG c.c.f.pjv.Controllers.GameController - Board state after move:
+2024-05-22 15:13:14 [AWT-EventQueue-0] DEBUG c.c.f.pjv.Controllers.GameController - 
+00 00 00 00 00 00 00 00 
+02 03 01 04 05 01 03 02 
+xx xx xx xx xx xx xx xx 
+xx xx xx xx xx xx xx xx 
+xx xx xx xx xx xx xx xx 
+xx xx xx 15 14 xx 13 xx 
+12 13 11 xx xx 11 xx 12 
+10 10 10 10 10 10 10 10 
+
+2024-05-22 15:13:14 [Thread-0] DEBUG c.c.f.pjv.Controllers.GameController - Updated time: 7 seconds left for GOLD
+2024-05-22 15:13:15 [AWT-EventQueue-0] DEBUG c.c.f.pjv.Utilities.ValidationHelper - Checking if move is valid...
+2024-05-22 15:13:15 [AWT-EventQueue-0] DEBUG c.c.f.pjv.Controllers.GameController - Turn validation for move from [6, 7] to [5, 7]: true
+2024-05-22 15:13:15 [AWT-EventQueue-0] DEBUG c.c.f.pjv.Utilities.ValidationHelper - Checking for trap...
+2024-05-22 15:13:15 [AWT-EventQueue-0] DEBUG c.c.f.pjv.Controllers.GameController - Piece moved from (6, 7) to (5, 7). Current turn count: 4
+2024-05-22 15:13:15 [AWT-EventQueue-0] DEBUG c.c.f.pjv.Controllers.GameController - Board state after move:
+2024-05-22 15:13:15 [AWT-EventQueue-0] DEBUG c.c.f.pjv.Controllers.GameController - 
+00 00 00 00 00 00 00 00 
+02 03 01 04 05 01 03 02 
+xx xx xx xx xx xx xx xx 
+xx xx xx xx xx xx xx xx 
+xx xx xx xx xx xx xx xx 
+xx xx xx 15 14 xx 13 12 
+12 13 11 xx xx 11 xx xx 
+10 10 10 10 10 10 10 10 
+
+2024-05-22 15:13:15 [AWT-EventQueue-0] DEBUG c.c.f.pjv.Utilities.ValidationHelper - Validating end of turn...
+2024-05-22 15:13:15 [AWT-EventQueue-0] INFO  c.c.f.pjv.Controllers.GameController - Finishing player turn for GOLD
+2024-05-22 15:13:15 [AWT-EventQueue-0] DEBUG c.c.f.pjv.Utilities.ValidationHelper - Checking for winner...
+2024-05-22 15:13:15 [AWT-EventQueue-0] INFO  c.c.f.pjv.Controllers.GameController - Turn finished. Next turn for SILVER
+2024-05-22 15:13:15 [Thread-0] DEBUG c.c.f.pjv.Controllers.GameController - Updated time: 9 seconds left for SILVER

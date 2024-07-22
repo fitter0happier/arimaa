@@ -1,0 +1,34 @@
+1g Ra1 Rb1 Rc1 Rd1 Re1 Rf1 Rg1 Rh1 Da2 Hb2 Cc2 Ed2 Me2 Hf2 Cg2 Dh2 
+1s da7 hb7 cc7 md7 ee7 cf7 hg7 dh7 ra8 rb8 rc8 rd8 re8 rf8 rg8 rh8 
+2g Hf2n Hf3x Cg2w Cf2n Cf3x Me2e 
+2s hg7s dh7s 
+3g Mf2n Mf3x Rf1n Rf2n Rf3x Rg1w 
+3s hg6n dh6n 
+4g Rf1n Rf2n Rf3x Dh2w Dg2w 
+4s hg7s dh7s 
+5g Df2n Df3x Rh1w Rg1w Rf1n 
+5s hg6s hg5n hg6n dh6n 
+6g Rf2n Rf3x Re1n Re2e Rf2n Rf3x 
+6s ee7s md7s md6s cf7s 
+7g Ed2n Ed3n Ed4e Ee4n 
+7s cf6s hg7s hg6s hb7s 
+8g Cc2n Cc3x Hb2e Hc2n Hc3x Da2n 
+8s cc7s cc6s hb6s hb5s 
+9g Da3e 
+9s dh7s hb4e hc4e hd4e 
+10g Db3e Dc3x 
+10s dh6s dh5s dh4w 
+11g Rd1n 
+11s re8s rf8s rf7s rd8s 
+12g Rd2w 
+12s dg4w hg5s hg4s hg3w 
+13g Rc2n Rc3x Rc1n Rc2n Rc3x Rb1e 
+13s hf3w rg8s rg7s rg6s 
+14g Rc1e 
+14s rd7s md5s rd6s re7w 
+15g Rd1e 
+15s rd7s 
+16g Ra1n Ra2n Ra3e Rb3e Rc3x 
+CURRENT 4000
+GOLD 575000
+SILVER 527000

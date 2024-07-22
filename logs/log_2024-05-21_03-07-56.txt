@@ -1,0 +1,3 @@
+2024-05-21 03:07:56 [main] INFO  com.cvut.fel.pjv.Main - Game started with logging {} enabled
+2024-05-21 03:07:56 [main] INFO  c.c.f.pjv.Controllers.GameController - GameController initialized with logging enabled.
+2024-05-21 03:07:56 [main] INFO  c.c.f.pjv.Controllers.GameController - Starting the game...

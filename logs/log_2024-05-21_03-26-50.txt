@@ -1,0 +1,60 @@
+2024-05-21 03:26:50 [main] INFO  com.cvut.fel.pjv.Main - Game started with logging {} enabled
+2024-05-21 03:26:50 [main] INFO  c.c.f.pjv.Controllers.GameController - GameController initialized with logging enabled.
+2024-05-21 03:26:50 [main] INFO  c.c.f.pjv.Controllers.GameController - Starting the game...
+2024-05-21 03:26:52 [AWT-EventQueue-0] INFO  c.c.f.pjv.Controllers.GameController - Board created and displayed.
+2024-05-21 03:27:15 [AWT-EventQueue-0] INFO  c.c.f.pjv.Controllers.GameController - Beginning new game...
+2024-05-21 03:27:15 [AWT-EventQueue-0] DEBUG c.c.f.pjv.Controllers.GameController - Updated time: 10 seconds left for GOLD
+2024-05-21 03:27:15 [AWT-EventQueue-0] INFO  c.c.f.pjv.Controllers.GameController - New game setup completed.
+2024-05-21 03:27:16 [Thread-1] DEBUG c.c.f.pjv.Controllers.GameController - Updated time: 9 seconds left for GOLD
+2024-05-21 03:27:16 [AWT-EventQueue-0] DEBUG c.c.f.pjv.Utilities.ValidationHelper - Checking if move is valid...
+2024-05-21 03:27:16 [AWT-EventQueue-0] DEBUG c.c.f.pjv.Controllers.GameController - Turn validation for move from [6, 3] to [5, 3]: true
+2024-05-21 03:27:16 [AWT-EventQueue-0] DEBUG c.c.f.pjv.Utilities.ValidationHelper - Checking for trap...
+2024-05-21 03:27:16 [AWT-EventQueue-0] DEBUG c.c.f.pjv.Controllers.GameController - Piece moved from (6, 3) to (5, 3). Current turn count: 1
+2024-05-21 03:27:16 [AWT-EventQueue-0] DEBUG c.c.f.pjv.Controllers.GameController - Board state after move:
+2024-05-21 03:27:16 [AWT-EventQueue-0] DEBUG c.c.f.pjv.Controllers.GameController - 
+00 00 00 00 00 00 00 00 
+02 03 01 04 05 01 03 02 
+xx xx xx xx xx xx xx xx 
+xx xx xx xx xx xx xx xx 
+xx xx xx xx xx xx xx xx 
+xx xx xx 15 xx xx xx xx 
+12 13 11 xx 14 11 13 12 
+10 10 10 10 10 10 10 10 
+
+2024-05-21 03:27:17 [AWT-EventQueue-0] DEBUG c.c.f.pjv.Utilities.ValidationHelper - Checking if move is valid...
+2024-05-21 03:27:17 [AWT-EventQueue-0] DEBUG c.c.f.pjv.Controllers.GameController - Turn validation for move from [6, 4] to [5, 4]: true
+2024-05-21 03:27:17 [AWT-EventQueue-0] DEBUG c.c.f.pjv.Utilities.ValidationHelper - Checking for trap...
+2024-05-21 03:27:17 [AWT-EventQueue-0] DEBUG c.c.f.pjv.Controllers.GameController - Piece moved from (6, 4) to (5, 4). Current turn count: 2
+2024-05-21 03:27:17 [AWT-EventQueue-0] DEBUG c.c.f.pjv.Controllers.GameController - Board state after move:
+2024-05-21 03:27:17 [AWT-EventQueue-0] DEBUG c.c.f.pjv.Controllers.GameController - 
+00 00 00 00 00 00 00 00 
+02 03 01 04 05 01 03 02 
+xx xx xx xx xx xx xx xx 
+xx xx xx xx xx xx xx xx 
+xx xx xx xx xx xx xx xx 
+xx xx xx 15 14 xx xx xx 
+12 13 11 xx xx 11 13 12 
+10 10 10 10 10 10 10 10 
+
+2024-05-21 03:27:17 [Thread-1] DEBUG c.c.f.pjv.Controllers.GameController - Updated time: 8 seconds left for GOLD
+2024-05-21 03:27:18 [Thread-1] DEBUG c.c.f.pjv.Controllers.GameController - Updated time: 7 seconds left for GOLD
+2024-05-21 03:27:19 [Thread-1] DEBUG c.c.f.pjv.Controllers.GameController - Updated time: 6 seconds left for GOLD
+2024-05-21 03:27:20 [Thread-1] DEBUG c.c.f.pjv.Controllers.GameController - Updated time: 5 seconds left for GOLD
+2024-05-21 03:27:21 [Thread-1] DEBUG c.c.f.pjv.Controllers.GameController - Updated time: 4 seconds left for GOLD
+2024-05-21 03:27:22 [Thread-1] DEBUG c.c.f.pjv.Controllers.GameController - Updated time: 3 seconds left for GOLD
+2024-05-21 03:27:23 [Thread-1] DEBUG c.c.f.pjv.Controllers.GameController - Updated time: 2 seconds left for GOLD
+2024-05-21 03:27:24 [Thread-1] DEBUG c.c.f.pjv.Controllers.GameController - Updated time: 1 seconds left for GOLD
+2024-05-21 03:27:25 [Thread-1] DEBUG c.c.f.pjv.Controllers.GameController - Updated time: 0 seconds left for GOLD
+2024-05-21 03:27:26 [Thread-1] DEBUG c.c.f.pjv.Controllers.GameController - Updated time: 499 seconds left for GOLD
+2024-05-21 03:27:27 [Thread-1] DEBUG c.c.f.pjv.Controllers.GameController - Updated time: 498 seconds left for GOLD
+2024-05-21 03:27:28 [Thread-1] DEBUG c.c.f.pjv.Controllers.GameController - Updated time: 497 seconds left for GOLD
+2024-05-21 03:27:29 [Thread-1] DEBUG c.c.f.pjv.Controllers.GameController - Updated time: 496 seconds left for GOLD
+2024-05-21 03:27:30 [Thread-1] DEBUG c.c.f.pjv.Controllers.GameController - Updated time: 495 seconds left for GOLD
+2024-05-21 03:27:31 [Thread-1] DEBUG c.c.f.pjv.Controllers.GameController - Updated time: 494 seconds left for GOLD
+2024-05-21 03:27:32 [Thread-1] DEBUG c.c.f.pjv.Controllers.GameController - Updated time: 493 seconds left for GOLD
+2024-05-21 03:27:33 [Thread-1] DEBUG c.c.f.pjv.Controllers.GameController - Updated time: 492 seconds left for GOLD
+2024-05-21 03:27:34 [Thread-1] DEBUG c.c.f.pjv.Controllers.GameController - Updated time: 491 seconds left for GOLD
+2024-05-21 03:27:35 [Thread-1] DEBUG c.c.f.pjv.Controllers.GameController - Updated time: 490 seconds left for GOLD
+2024-05-21 03:27:36 [Thread-1] DEBUG c.c.f.pjv.Controllers.GameController - Updated time: 489 seconds left for GOLD
+2024-05-21 03:27:37 [Thread-1] DEBUG c.c.f.pjv.Controllers.GameController - Updated time: 488 seconds left for GOLD
+2024-05-21 03:27:38 [Thread-1] DEBUG c.c.f.pjv.Controllers.GameController - Updated time: 487 seconds left for GOLD

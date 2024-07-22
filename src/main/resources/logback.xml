@@ -1,0 +1,13 @@
+<configuration>
+    <timestamp key="timestamp" datePattern="yyyy-MM-dd'_'HH-mm-ss"/>
+    <appender name="FILE" class="ch.qos.logback.core.FileAppender">
+        <file>arimaa/logs/log_${timestamp}.txt</file>
+        <encoder>
+            <pattern>%d{yyyy-MM-dd HH:mm:ss} [%thread] %-5level %logger{36} - %msg%n</pattern>
+        </encoder>
+    </appender>
+
+    <root level="debug">
+        <appender-ref ref="FILE" />
+    </root>
+</configuration>

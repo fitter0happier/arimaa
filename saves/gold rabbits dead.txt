@@ -1,0 +1,20 @@
+1g Ra1 Rb1 Rc1 Rd1 Re1 Rf1 Rg1 Rh1 Da2 Hb2 Cc2 Ed2 Me2 Cf2 Hg2 Dh2 
+1s da7 hb7 cc7 md7 ee7 cf7 hg7 dh7 ra8 rb8 rc8 rd8 re8 rf8 rg8 rh8 
+2g 2g Hg2n Dh2n Me2n Me3w 
+2s hg7s 
+3g Cf2e Rf1n Rf2n Hg3n Rf3x 
+3s hg6n 
+4g Re1n Re2e Rf2n Rf3x Rg1w 
+4s hg7s 
+5g Rf1n Rf2n Rf3x Rd1e Re1e 
+5s hg6n 
+6g Rf1n Rf2n Rf3x Rh1w Rg1w 
+6s hg7s 
+7g Rf1n Rf2n Rf3x Cc2n Md3e Cc3x 
+7s hg6n 
+8g Rc1n Rc2n Rc3x Rb1e Rc1n 
+8s hg7s 
+9g Rc2n Rc3x Ra1e Rb1e Rc1n 
+CURRENT 8000
+GOLD 92000
+SILVER 105000

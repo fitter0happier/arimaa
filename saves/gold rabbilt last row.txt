@@ -1,0 +1,11 @@
+1g Ra1 Rb1 Rc1 Rd1 Re1 Rf1 Rg1 Rh1 Da2 Hb2 Cc2 Ed2 Me2 Cf2 Hg2 Dh2 
+1s da7 hb7 cc7 md7 ee7 cf7 hg7 dh7 ra8 rb8 rc8 rd8 re8 rf8 rg8 rh8 
+2g 2g Me2n Me3e 
+2s ee7s ee6w ed6w 
+3g Re1n Re2n 
+3s re8s re7s re6e rf6e 
+4g Re3n Re4n Re5n Re6n 
+4s cf7s md7s 
+CURRENT 8000
+GOLD 66000
+SILVER 67000
